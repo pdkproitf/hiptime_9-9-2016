@@ -1,4 +1,5 @@
 # hiptime_9-9-2016
-https://hiptimes.herokuapp.com/
+amazon: 54.242.48.104:3000
+heroku: https://hiptimes.herokuapp.com/
 account: syqajov@gmail.com
 pass: syqajov@gmail.com
